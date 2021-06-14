@@ -1,4 +1,4 @@
-# todo-app
+# vue3-task-tracking-app
 
 ## Project setup
 ```
@@ -18,6 +18,17 @@ yarn build
 ### Lints and fixes files
 ```
 yarn lint
+```
+
+### Runs tests
+```
+jest test
+```
+
+OR
+
+```
+yarn test
 ```
 
 ### Customize configuration
